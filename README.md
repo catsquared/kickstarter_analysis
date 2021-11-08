@@ -10,7 +10,7 @@ The purpose of this project is to explore theater Kickstarter campaign outcomes 
 ### Analysis of Outcomes Based on Launch Date
 The first analysis looks at theater campaign outcomes based on the month in which the campaign was launched. The pivot table on the tab 'Theatre_Outcomes_by_Launch_Date' is created using the tab 'Kickstarter'. The pivot table filters on the category Theater. Year is added as a filter as well, but not used in the initial analysis. Launch date is used as rows, and grouped based on months. Outcomes are added as columns and values, resulting in a chart that looks like this:
 
-![Launch Date Pivot](/Users/zxiaoxi/Documents/UofT Boot Camp/Module_01/1-Challenge/Resources/launch_date.png)
+![Launch Date Pivot](Resources/launch_date.png)
 
 
 
